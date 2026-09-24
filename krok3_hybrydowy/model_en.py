@@ -81,7 +81,7 @@ rmse_hybrid = np.sqrt(mean_squared_error(y_test, pred_hybrid))
 r2_hybrid = r2_score(y_test, pred_hybrid)
 
 # ============================================================
-# COMPARISON (like the benchmark table in Appendix D.1 of the book)
+# COMPARISON (like the benchmark table in Appendix D.1 of the book "Process Modeling in Pharma: From Zero to a Validated Model")
 # ============================================================
 print("=== COMPARISON OF THREE APPROACHES (on the TEST set) ===\n")
 print(f"{'Approach':<35} {'RMSE (C)':<12} {'R^2':<10}")

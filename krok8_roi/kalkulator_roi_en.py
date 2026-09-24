@@ -3,7 +3,7 @@ Step 8: an ROI calculator for a process model (Chapter 15).
 
 The calculation structure is general - plug in your own numbers (cost per person-month,
 batch value, deviation frequency), the model stays the same. Below: ILLUSTRATIVE
-numbers from the book (the bioreactor DO model), to verify that the calculator
+numbers from the book "Process Modeling in Pharma: From Zero to a Validated Model" (the bioreactor DO model), to verify that the calculator
 reproduces their result (payback ~2.9 years).
 """
 from dataclasses import dataclass

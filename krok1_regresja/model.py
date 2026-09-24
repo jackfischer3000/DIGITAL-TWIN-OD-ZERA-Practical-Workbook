@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # --- 1. DANE ---
-# W realnym projekcie dane pochodza z historiana/SCADA (patrz Rozdzial 5 ksiazki: "Dane w srodowisku GxP").
+# W realnym projekcie dane pochodza z historiana/SCADA (patrz Rozdzial 5 ksiazki "Modelowanie procesow w farmacji: od zera do zwalidowanego modelu": "Dane w srodowisku GxP").
 # Tutaj: generujemy syntetycznie, zeby miec kontrole nad "prawdziwa" zaleznoscia i sprawdzic,
 # czy model jest w stanie ja odtworzyc.
 np.random.seed(42)

@@ -1,7 +1,7 @@
 """
 Krok 6: replika case study D.1 - predykcja DO w bioreaktorze, architektura hybrydowa
 (bilans masy + GRU), PyTorch. Benchmark: fizyka vs GRU (czarna skrzynka) vs hybryda,
-na horyzoncie 30 minut - jak w Rozdziale 10/11 i Aneksie D.1 ksiazki.
+na horyzoncie 30 minut - jak w Rozdziale 10/11 i Aneksie D.1 ksiazki "Modelowanie procesow w farmacji: od zera do zwalidowanego modelu".
 """
 import numpy as np
 import pandas as pd

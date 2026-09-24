@@ -1,7 +1,7 @@
 """
 Step 6: replica of case study D.1 - DO prediction in a bioreactor, hybrid architecture
 (mass balance + GRU), PyTorch. Benchmark: physics vs GRU (black box) vs hybrid,
-at a 30-minute horizon - as in Chapters 10/11 and Appendix D.1 of the book.
+at a 30-minute horizon - as in Chapters 10/11 and Appendix D.1 of the book "Process Modeling in Pharma: From Zero to a Validated Model".
 """
 import numpy as np
 import pandas as pd

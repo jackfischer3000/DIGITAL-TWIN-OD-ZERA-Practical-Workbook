@@ -1,7 +1,7 @@
 """
 Krok 7: serwis inferencji jako FastAPI - endpoint POST /predict.
 
-Zwraca dokladnie to, co specyfikuje Rozdzial 11/13 ksiazki: predykcje z przedzialem
+Zwraca dokladnie to, co specyfikuje Rozdzial 11/13 ksiazki "Modelowanie procesow w farmacji: od zera do zwalidowanego modelu": predykcje z przedzialem
 ufnosci, flaga OOD, wersja modelu - plus rozklad fizyka/korekta ML (explainability,
 Rozdzial 12) i logike fallback z MDS.
 """

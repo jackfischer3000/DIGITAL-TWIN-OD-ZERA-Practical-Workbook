@@ -81,7 +81,7 @@ rmse_hybryda = np.sqrt(mean_squared_error(y_test, pred_hybryda))
 r2_hybryda = r2_score(y_test, pred_hybryda)
 
 # ============================================================
-# PORONANIE (jak tabela benchmarkowa w Aneksie D.1 ksiazki)
+# PORONANIE (jak tabela benchmarkowa w Aneksie D.1 ksiazki "Modelowanie procesow w farmacji: od zera do zwalidowanego modelu")
 # ============================================================
 print("=== PORONANIE TRZECH PODEJSC (na zbiorze TESTOWYM) ===\n")
 print(f"{'Podejscie':<30} {'RMSE (C)':<12} {'R^2':<10}")

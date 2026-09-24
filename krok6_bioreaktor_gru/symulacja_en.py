@@ -1,5 +1,5 @@
 """
-Step 6: bioreactor simulation - a replica of case study D.1 from the book (DO prediction).
+Step 6: bioreactor simulation - a replica of case study D.1 from the book "Process Modeling in Pharma: From Zero to a Validated Model" (DO prediction).
 
 Physics: dissolved oxygen mass balance
     dDO/dt = OTR - OUR

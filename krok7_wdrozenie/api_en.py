@@ -1,7 +1,7 @@
 """
 Step 7: an inference service as FastAPI - POST /predict endpoint.
 
-Returns exactly what Chapter 11/13 of the book specifies: a prediction with a confidence
+Returns exactly what Chapter 11/13 of the book "Process Modeling in Pharma: From Zero to a Validated Model" specifies: a prediction with a confidence
 interval, the OOD flag, the model version - plus the physics/ML-correction breakdown
 (explainability, Chapter 12) and the fallback logic from the MDS.
 """

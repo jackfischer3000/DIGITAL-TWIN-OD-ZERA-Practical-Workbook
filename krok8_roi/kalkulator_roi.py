@@ -3,7 +3,7 @@ Krok 8: kalkulator ROI dla modelu procesowego (Rozdzial 15).
 
 Struktura kalkulacji jest ogolna - podstaw wlasne liczby (koszt osobo-miesiaca,
 wartosc partii, czestosc odchylen), model zostaje ten sam. Ponizej: liczby
-ILUSTRACYJNE z ksiazki (model DO w bioreaktorze), zeby zweryfikowac ze kalkulator
+ILUSTRACYJNE z ksiazki "Modelowanie procesow w farmacji: od zera do zwalidowanego modelu" (model DO w bioreaktorze), zeby zweryfikowac ze kalkulator
 odtwarza ich wynik (payback ~2.9 roku).
 """
 from dataclasses import dataclass

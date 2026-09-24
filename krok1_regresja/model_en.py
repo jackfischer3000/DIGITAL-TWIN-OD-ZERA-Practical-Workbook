@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # --- 1. DATA ---
-# In a real project, data comes from the historian/SCADA (see Chapter 5 of the book: "Data in a GxP Environment").
+# In a real project, data comes from the historian/SCADA (see Chapter 5 of the book "Process Modeling in Pharma: From Zero to a Validated Model": "Data in a GxP Environment").
 # Here: we generate it synthetically, so we control the "true" relationship and can check
 # whether the model is able to recover it.
 np.random.seed(42)

@@ -1,5 +1,5 @@
 """
-Krok 6: symulacja bioreaktora - replika case study D.1 z ksiazki (predykcja DO).
+Krok 6: symulacja bioreaktora - replika case study D.1 z ksiazki "Modelowanie procesow w farmacji: od zera do zwalidowanego modelu" (predykcja DO).
 
 Fizyka: bilans tlenu rozpuszczonego
     dDO/dt = OTR - OUR
